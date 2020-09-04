@@ -15,11 +15,17 @@ if (millis() - timeout > 100000L) {
 }
 ```
 
-# Contribute
+## TODO
+
+0. [x] implementasi 
+0. [ ] create class
+0. [ ] deploy to arduino.info
+
+## Contribute
 
 If you like - give it a star, or fork it and contribute!
 
-# Give me Coffe 
+## Give me Coffe 
 
 [Saweria https://saweria.co/mamunsyuhada](https://saweria.co/mamunsyuhada)
 
