@@ -1,6 +1,6 @@
 # Riset OTA
 
-Modifikasi dari TTGO (https://github.com/Xinyuan-LilyGO/LilyGo-T-Call-SIM800/tree/master/examples/Arduino_GSM_OTA)
+Modifikasi dari [TTGO - LilyGo-T-Call-SIM800](https://github.com/Xinyuan-LilyGO/LilyGo-T-Call-SIM800/tree/master/examples/Arduino_GSM_OTA)
 ## Attention
 
 **yang perlu diperhatikan bandwith nya**
