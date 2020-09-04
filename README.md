@@ -20,5 +20,5 @@ If you like TinyGSM - give it a star, or fork it and contribute!
 
 # Give me Coffe 
 
-[![Saweria](https://saweria.co/overlays/qr?streamKey=45635790ec9aa2d04fb5c4abb0eedfd6&backgroundColor=%23faae2b&barcodeColor=%23000&username=mamunsyuhada)](https://saweria.co/mamunsyuhada)
+[![Saweria](docs/qrsaweria.png)](https://saweria.co/mamunsyuhada)
 
