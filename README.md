@@ -1,5 +1,6 @@
 # Riset OTA
 
+Modifikasi dari TTGO (https://github.com/Xinyuan-LilyGO/LilyGo-T-Call-SIM800/tree/master/examples/Arduino_GSM_OTA)
 ## Attention
 
 **yang perlu diperhatikan bandwith nya**
@@ -16,7 +17,7 @@ if (millis() - timeout > 100000L) {
 
 # Contribute
 
-If you like TinyGSM - give it a star, or fork it and contribute!
+If you like - give it a star, or fork it and contribute!
 
 # Give me Coffe 
 
