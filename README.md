@@ -17,9 +17,9 @@ if (millis() - timeout > 100000L) {
 
 ## TODO
 
-0. [x] implementasi 
-0. [ ] create class
-0. [ ] deploy to arduino.info
+0. [x] Implementasi 
+0. [ ] Create class
+0. [ ] Deploy to arduino.info
 
 ## Contribute
 
