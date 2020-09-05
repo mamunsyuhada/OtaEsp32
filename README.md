@@ -1,4 +1,4 @@
-# Riset OTA
+# OTA GPRS
 
 Modifikasi dari [TTGO - LilyGo-T-Call-SIM800](https://github.com/Xinyuan-LilyGO/LilyGo-T-Call-SIM800/tree/master/examples/Arduino_GSM_OTA)
 ## Attention
